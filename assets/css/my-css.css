@@ -5,6 +5,10 @@
     object-fit: cover;
 }
 
+#skills-paragraph {
+    margin-top: 32px;
+}
+
 /* #first-list > li {
     width: 123px;
 }
